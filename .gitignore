@@ -1,0 +1,19 @@
+# Delphi - ignora arquivos temporários e compilados
+*.dcu
+*.dsk
+*.local
+*.identcache
+*.stat
+*.exe
+*.dll
+*.bpl
+*.map
+*.cfg
+*.~*
+*.bak
+__history/
+*.dproj.local
+*.dproj.user
+*.groupproj.user
+bin/
+obj/
